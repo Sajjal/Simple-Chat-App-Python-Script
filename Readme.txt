@@ -24,4 +24,4 @@ B. To Run This Script in C-panel:
 
 
     Sajjal Neupane
-    linkedin.in/mrsajjal
+    linkedin.com/in/mrsajjal/
